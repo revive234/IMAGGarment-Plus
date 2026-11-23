@@ -23,16 +23,17 @@ pip install -r requirements.txt
 ```
 ## 🌐 Download Models
 
-- IMAGGarment-Plus checkpoint: [model download link to be added]
+- IMAGGarment-Plus checkpoint: [keimen/IMAGGarment-Plus](https://huggingface.co/keimen/IMAGGarment-Plus)
 - Base model: [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
 - VAE: [madebyollin/sdxl-vae-fp16-fix](https://huggingface.co/madebyollin/sdxl-vae-fp16-fix)
 
-## 🚀 How to train
+## 🚀 How to use
 ```
+conda activate IMAGGarment-Plus
+# Training
 sh train.sh
-```
-## 🚀 How to test
-```
+
+# Inference 
 sh inference.sh
 ```
 
