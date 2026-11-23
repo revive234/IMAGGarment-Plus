@@ -1,0 +1,11 @@
+python inference.py \
+--model_ckpt "[your model_ckpt]" \
+--cloth_path "[your cloth_path]" \
+--sketch_path "[your sketch_path]" \
+--logo_path "[your logo_path]" \
+--color_path "[your color_path]" \
+--mask_path "[your mask_path]" \
+--width=512 \
+--height=640 \
+--output_path "[your output_path]" \
+--device cuda:0
