@@ -23,9 +23,7 @@ pip install -r requirements.txt
 ```
 ## 🌐 Download Models
 
-- IMAGGarment-Plus checkpoint: [keimen/IMAGGarment-Plus](https://huggingface.co/keimen/IMAGGarment-Plus)
-- Base model: [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
-- VAE: [madebyollin/sdxl-vae-fp16-fix](https://huggingface.co/madebyollin/sdxl-vae-fp16-fix)
+Our method is built upon [Stable Diffusion XL (SDXL)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0), using [sdxl-vae-fp16-fix](https://huggingface.co/madebyollin/sdxl-vae-fp16-fix) as the VAE. The pretrained IMAGGarment+ checkpoint is available on [IMAGGarment-Plus](https://huggingface.co/keimen/IMAGGarment-Plus).
 
 ## 🚀 How to use
 ```
