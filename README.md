@@ -1,7 +1,7 @@
 <div align="center">
 <h1> IMAGGarment+: Efficient Attribute-Wise Diffusion for Garment Generation </h1>
 
-Jian Yu<sup>*</sup> · Fei Shen <sup>*</sup>· Cong Wang · Yanpeng Sun · Hao Tang · Qin Guo · Xiaoyu Du<sup>†</sup>
+Jian Yu<sup>\*</sup> , Fei Shen <sup>\*</sup>, Cong Wang , Yanpeng Sun , Hao Tang , Qin Guo , Xiaoyu Du<sup>†</sup>
 
 *These authors contributed equally , †Corresponding author
 
