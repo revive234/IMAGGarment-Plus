@@ -1,4 +1,5 @@
-## IMAGGarment+: Efficient Attribute-Wise Diffusion for Garment Generation
+<div align="center">
+<h1> IMAGGarment+: Efficient Attribute-Wise Diffusion for Garment Generation </h1>
 
 <a href='https://revive234.github.io/imaggarment.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 <a href='https://ojs.aaai.org/index.php/AAAI/article/view/38203/42165'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
